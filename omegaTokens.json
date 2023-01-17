@@ -2260,6 +2260,14 @@
           "type": "borderRadius"
         }
       }
+    },
+    "Sizes": {
+      "Static": {
+        "1x": {
+          "value": "{core.xBase}",
+          "type": "sizing"
+        }
+      }
     }
   },
   "components": {
