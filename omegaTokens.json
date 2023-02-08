@@ -3164,20 +3164,24 @@
           "type": "color"
         },
         "off": {
-          "bodyNormal": {
+          "body": {
             "value": "{semantic.constant.primary}",
             "type": "color"
           },
+          "bodyNormal": {
+            "value": "{semantic.primary.transparent24}",
+            "type": "color"
+          },
           "bodyHover": {
-            "value": "{semantic.brand.transparent32}",
+            "value": "{semantic.primary.transparent32}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.brand.transparent40}",
+            "value": "{semantic.primary.transparent40}",
             "type": "color"
           },
           "bodyDisabled": {
-            "value": "{semantic.brand.transparent8}",
+            "value": "{semantic.primary.transparent8}",
             "type": "color"
           },
           "bodyWarning": {
