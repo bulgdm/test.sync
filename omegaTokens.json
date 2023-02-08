@@ -2446,7 +2446,7 @@
           }
         }
       },
-      "alert": {
+      "informer": {
         "title": {
           "value": "{components.text.primary}",
           "type": "color"
@@ -2459,77 +2459,93 @@
           "value": "{components.text.secondary}",
           "type": "color"
         },
-        "brandBody": {
-          "value": "{semantic.brand.transparent4}",
+        "closeIcon": {
+          "value": "{components.icon.outlined.secondary}",
           "type": "color"
         },
-        "brandBorder": {
-          "value": "{semantic.brand.transparent16}",
-          "type": "color"
+        "brand": {
+          "body": {
+            "value": "{semantic.brand.transparent8}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.brand.transparent16}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{components.icon.outlined.brand}",
+            "type": "color"
+          }
         },
-        "brandIcon": {
-          "value": "{components.icon.outlined.brand}",
-          "type": "color"
+        "success": {
+          "body": {
+            "value": "{semantic.success.transparent8}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.success.transparent16}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{components.icon.outlined.success}",
+            "type": "color"
+          }
         },
-        "successBody": {
-          "value": "{semantic.success.transparent4}",
-          "type": "color"
+        "info": {
+          "body": {
+            "value": "{semantic.info.transparent8}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.info.transparent16}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{components.icon.outlined.info}",
+            "type": "color"
+          }
         },
-        "successBorder": {
-          "value": "{semantic.success.transparent16}",
-          "type": "color"
+        "warning": {
+          "body": {
+            "value": "{semantic.warning.transparent8}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.warning.transparent16}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.warning.primary}",
+            "type": "color"
+          }
         },
-        "successIcon": {
-          "value": "{components.icon.outlined.success}",
-          "type": "color"
+        "critical": {
+          "body": {
+            "value": "{semantic.critical.transparent4}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.critical.transparent16}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.critical.primary}",
+            "type": "color"
+          }
         },
-        "infoBody": {
-          "value": "{semantic.info.transparent4}",
-          "type": "color"
-        },
-        "infoBorder": {
-          "value": "{semantic.info.transparent16}",
-          "type": "color"
-        },
-        "infoIcon": {
-          "value": "{components.icon.outlined.info}",
-          "type": "color"
-        },
-        "warningBody": {
-          "value": "{semantic.warning.transparent4}",
-          "type": "color"
-        },
-        "warningBorder": {
-          "value": "{semantic.warning.transparent16}",
-          "type": "color"
-        },
-        "warningIcon": {
-          "value": "{semantic.warning.primary}",
-          "type": "color"
-        },
-        "criticalBody": {
-          "value": "{semantic.critical.transparent4}",
-          "type": "color"
-        },
-        "criticalBorder": {
-          "value": "{semantic.critical.transparent16}",
-          "type": "color"
-        },
-        "criticalIcon": {
-          "value": "{semantic.critical.primary}",
-          "type": "color"
-        },
-        "draftBody": {
-          "value": "{semantic.draft.transparent4}",
-          "type": "color"
-        },
-        "draftBorder": {
-          "value": "{semantic.draft.transparent16}",
-          "type": "color"
-        },
-        "draftIcon": {
-          "value": "{semantic.draft.primary}",
-          "type": "color"
+        "draft": {
+          "body": {
+            "value": "{semantic.draft.transparent4}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.draft.transparent16}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.draft.primary}",
+            "type": "color"
+          }
         }
       },
       "accordion": {
@@ -3434,186 +3450,6 @@
           },
           "iconClick": {
             "value": "{components.icon.outlined.constantPrimary}",
-            "type": "color"
-          }
-        }
-      },
-      "linkAsButton": {
-        "solid": {
-          "bodyPrimary": {
-            "value": "{semantic.primary.primary}",
-            "type": "color"
-          },
-          "bodyConstant": {
-            "value": "{semantic.constant.primary}",
-            "type": "color"
-          },
-          "bodyBrand": {
-            "value": "{semantic.brand.primary}",
-            "type": "color"
-          },
-          "BodySuccess": {
-            "value": "{semantic.success.primary}",
-            "type": "color"
-          },
-          "bodyInfo": {
-            "value": "{semantic.info.primary}",
-            "type": "color"
-          },
-          "bodyWarning": {
-            "value": "{semantic.warning.primary}",
-            "type": "color"
-          },
-          "bodyCritical": {
-            "value": "{semantic.critical.primary}",
-            "type": "color"
-          },
-          "bodyDraft": {
-            "value": "{semantic.draft.primary}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{components.text.constantPrimary}",
-            "type": "color"
-          },
-          "textConstant": {
-            "value": "{components.text.brand}",
-            "type": "color"
-          }
-        },
-        "stroke": {
-          "body": {
-            "value": "{semantic.transparent.primary}",
-            "type": "color"
-          },
-          "borderPrimary": {
-            "value": "{semantic.primary.transparent16}",
-            "type": "color"
-          },
-          "textPrimary": {
-            "value": "{components.text.primary}",
-            "type": "color"
-          },
-          "borderBrand": {
-            "value": "{semantic.brand.secondary}",
-            "type": "color"
-          },
-          "textBrand": {
-            "value": "{components.text.brand}",
-            "type": "color"
-          },
-          "borderSuccess": {
-            "value": "{semantic.success.secondary}",
-            "type": "color"
-          },
-          "textSuccess": {
-            "value": "{components.text.success}",
-            "type": "color"
-          },
-          "borderInfo": {
-            "value": "{semantic.info.secondary}",
-            "type": "color"
-          },
-          "textInfo": {
-            "value": "{components.text.info}",
-            "type": "color"
-          },
-          "borderWarning": {
-            "value": "{semantic.warning.secondary}",
-            "type": "color"
-          },
-          "textWarning": {
-            "value": "{components.text.warning}",
-            "type": "color"
-          },
-          "borderCritical": {
-            "value": "{semantic.critical.secondary}",
-            "type": "color"
-          },
-          "textCritical": {
-            "value": "{components.text.critical}",
-            "type": "color"
-          },
-          "borderDraft": {
-            "value": "{semantic.draft.secondary}",
-            "type": "color"
-          },
-          "textDraft": {
-            "value": "{components.text.secondary}",
-            "type": "color"
-          },
-          "borderConstant": {
-            "value": "{semantic.constant.transparent60}",
-            "type": "color"
-          },
-          "textConstant": {
-            "value": "{components.text.constantPrimary}",
-            "type": "color"
-          }
-        },
-        "trasparent": {
-          "bodyPrimary": {
-            "value": "{semantic.transparent.primary}",
-            "type": "color"
-          },
-          "textPrimary": {
-            "value": "{components.text.primary}",
-            "type": "color"
-          },
-          "bodyBrand": {
-            "value": "{semantic.brand.transparent8}",
-            "type": "color"
-          },
-          "textBrand": {
-            "value": "{components.text.brand}",
-            "type": "color"
-          },
-          "bodySuccess": {
-            "value": "{semantic.success.transparent8}",
-            "type": "color"
-          },
-          "textSuccess": {
-            "value": "{components.text.success}",
-            "type": "color"
-          },
-          "bodyInfo": {
-            "value": "{semantic.info.transparent8}",
-            "type": "color"
-          },
-          "textInfo": {
-            "value": "{components.text.info}",
-            "type": "color"
-          },
-          "bodyWarning": {
-            "value": "{semantic.warning.transparent8}",
-            "type": "color"
-          },
-          "textWarning": {
-            "value": "{components.text.warning}",
-            "type": "color"
-          },
-          "bodyCritical": {
-            "value": "{semantic.critical.transparent8}",
-            "type": "color"
-          },
-          "textCritical": {
-            "value": "{components.text.critical}",
-            "type": "color"
-          },
-          "bodyDraft": {
-            "value": "{semantic.draft.transparent8}",
-            "type": "color"
-          },
-          "textDraft": {
-            "value": "{components.text.secondary}",
-            "type": "color"
-          },
-          "bodyConstant": {
-            "value": "{semantic.constant.transparent12}",
-            "type": "color"
-          },
-          "textConstant": {
-            "value": "{components.text.constantPrimary}",
             "type": "color"
           }
         }
