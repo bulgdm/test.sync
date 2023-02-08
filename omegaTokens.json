@@ -3511,6 +3511,36 @@
             "type": "color"
           }
         }
+      },
+      "steps": {
+        "active": {
+          "bodyNormal": {
+            "value": "{semantic.brand.primary}",
+            "type": "color"
+          },
+          "bodyHover": {
+            "value": "{semantic.brand.secondary}",
+            "type": "color"
+          },
+          "bodyClick": {
+            "value": "{semantic.brand.tertiary}",
+            "type": "color"
+          }
+        },
+        "inactive": {
+          "bodyNormal": {
+            "value": "{semantic.primary.transparent8}",
+            "type": "color"
+          },
+          "bodyHover": {
+            "value": "{semantic.primary.transparent12}",
+            "type": "color"
+          },
+          "bodyClick": {
+            "value": "{semantic.primary.transparent16}",
+            "type": "color"
+          }
+        }
       }
     }
   },
