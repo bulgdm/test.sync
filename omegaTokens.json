@@ -3165,7 +3165,7 @@
         },
         "off": {
           "body": {
-            "value": "{semantic.constant.transparent24}",
+            "value": "{semantic.constant.primary}",
             "type": "color"
           },
           "bodyNormal": {
