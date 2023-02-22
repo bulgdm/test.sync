@@ -3659,6 +3659,10 @@
           "icon": {
             "value": "{components.icon.outlined.primary}",
             "type": "color"
+          },
+          "text": {
+            "value": "{components.text.primary}",
+            "type": "color"
           }
         },
         "brand": {
@@ -3668,6 +3672,10 @@
           },
           "icon": {
             "value": "{components.icon.outlined.brand}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{components.text.brand}",
             "type": "color"
           }
         },
@@ -3679,6 +3687,10 @@
           "icon": {
             "value": "{components.icon.outlined.success}",
             "type": "color"
+          },
+          "text": {
+            "value": "{components.text.success}",
+            "type": "color"
           }
         },
         "info": {
@@ -3688,6 +3700,10 @@
           },
           "icon": {
             "value": "{components.icon.outlined.info}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{components.text.info}",
             "type": "color"
           }
         },
@@ -3699,6 +3715,10 @@
           "icon": {
             "value": "{components.icon.outlined.warning}",
             "type": "color"
+          },
+          "text": {
+            "value": "{components.text.warning}",
+            "type": "color"
           }
         },
         "critical": {
@@ -3709,6 +3729,10 @@
           "icon": {
             "value": "{components.icon.outlined.critical}",
             "type": "color"
+          },
+          "text": {
+            "value": "{components.text.critical}",
+            "type": "color"
           }
         },
         "draft": {
@@ -3718,6 +3742,10 @@
           },
           "icon": {
             "value": "{components.icon.outlined.draft}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{components.text.draft}",
             "type": "color"
           }
         }
