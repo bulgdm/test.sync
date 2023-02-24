@@ -3469,6 +3469,24 @@
               "value": "{components.icon.outlined.draft}",
               "type": "color"
             }
+          },
+          "primary": {
+            "bodyHover": {
+              "value": "{semantic.primary.transparent8}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.primary.transparent12}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{components.text.primary}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{components.icon.outlined.primary}",
+              "type": "color"
+            }
           }
         },
         "tonned": {
@@ -3601,6 +3619,28 @@
             },
             "icon": {
               "value": "{components.icon.outlined.draft}",
+              "type": "color"
+            }
+          },
+          "primary": {
+            "bodyNormal": {
+              "value": "{semantic.primary.transparent4}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.primary.transparent8}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.primary.transparent12}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{components.text.primary}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{components.icon.outlined.primary}",
               "type": "color"
             }
           }
