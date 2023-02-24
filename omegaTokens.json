@@ -3563,22 +3563,6 @@
         }
       },
       "tab": {
-        "containerBodyNormal": {
-          "value": "{semantic.transparent.primary}",
-          "type": "color"
-        },
-        "containerBodyHover": {
-          "value": "{semantic.primary.transparent4}",
-          "type": "color"
-        },
-        "containerBodyClick": {
-          "value": "{semantic.primary.transparent8}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{components.text.primary}",
-          "type": "color"
-        },
         "counterBodyNormal": {
           "value": "{semantic.brand.primary}",
           "type": "color"
@@ -3592,6 +3576,14 @@
           "type": "color"
         },
         "off": {
+          "text": {
+            "value": "{components.text.primary}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{components.icon.filled.primary}",
+            "type": "color"
+          },
           "bodyNormal": {
             "value": "{semantic.transparent.primary}",
             "type": "color"
@@ -3606,6 +3598,14 @@
           }
         },
         "on": {
+          "icon": {
+            "value": "{components.icon.filled.brand}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{components.text.brand}",
+            "type": "color"
+          },
           "bodyNormal": {
             "value": "{semantic.transparent.primary}",
             "type": "color"
