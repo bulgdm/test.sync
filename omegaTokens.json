@@ -2590,11 +2590,11 @@
       },
       "background1": {
         "primary": {
-          "value": "{palette.titanGray.0}",
+          "value": "{palette.blackWhite.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{palette.blackWhite.white}",
+          "value": "{palette.titanGray.0}",
           "type": "color"
         },
         "brand": {
@@ -3604,6 +3604,216 @@
               "type": "color"
             }
           }
+        },
+        "text": {
+          "primary": {
+            "textNormal": {
+              "value": "{components.text.primary}",
+              "type": "color"
+            },
+            "iconNormal": {
+              "value": "{components.icon.outlined.primary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{components.text.primary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{components.icon.outlined.primary}",
+              "type": "color"
+            },
+            "textClick": {
+              "value": "{components.text.primary}",
+              "type": "color"
+            },
+            "iconClick": {
+              "value": "{components.icon.outlined.primary}",
+              "type": "color"
+            }
+          },
+          "brand": {
+            "textNormal": {
+              "value": "{semantic.brand.secondary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{semantic.brand.tertiary}",
+              "type": "color"
+            },
+            "textClick": {
+              "value": "{semantic.brand.quaternary}",
+              "type": "color"
+            },
+            "iconNormal": {
+              "value": "{semantic.brand.secondary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{semantic.brand.tertiary}",
+              "type": "color"
+            },
+            "iconClick": {
+              "value": "{semantic.brand.quaternary}",
+              "type": "color"
+            }
+          },
+          "success": {
+            "textNormal": {
+              "value": "{semantic.success.secondary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{semantic.success.tertiary}",
+              "type": "color"
+            },
+            "textClick": {
+              "value": "{semantic.success.quaternary}",
+              "type": "color"
+            },
+            "iconNormal": {
+              "value": "{semantic.success.secondary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{semantic.success.tertiary}",
+              "type": "color"
+            },
+            "iconClick": {
+              "value": "{semantic.success.quaternary}",
+              "type": "color"
+            }
+          },
+          "info": {
+            "textNormal": {
+              "value": "{semantic.info.secondary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{semantic.info.tertiary}",
+              "type": "color"
+            },
+            "textClick": {
+              "value": "{semantic.info.quaternary}",
+              "type": "color"
+            },
+            "iconNormal": {
+              "value": "{semantic.info.secondary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{semantic.info.tertiary}",
+              "type": "color"
+            },
+            "iconClick": {
+              "value": "{semantic.info.quaternary}",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "textNormal": {
+              "value": "{semantic.warning.secondary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{semantic.warning.tertiary}",
+              "type": "color"
+            },
+            "textClick": {
+              "value": "{semantic.warning.quaternary}",
+              "type": "color"
+            },
+            "iconNormal": {
+              "value": "{semantic.warning.secondary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{semantic.warning.tertiary}",
+              "type": "color"
+            },
+            "iconClick": {
+              "value": "{semantic.warning.quaternary}",
+              "type": "color"
+            }
+          },
+          "critical": {
+            "textNormal": {
+              "value": "{semantic.critical.secondary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{semantic.critical.tertiary}",
+              "type": "color"
+            },
+            "textClick": {
+              "value": "{semantic.critical.quaternary}",
+              "type": "color"
+            },
+            "iconNormal": {
+              "value": "{semantic.critical.secondary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{semantic.critical.tertiary}",
+              "type": "color"
+            },
+            "iconClick": {
+              "value": "{semantic.critical.quaternary}",
+              "type": "color"
+            }
+          },
+          "draft": {
+            "textNormal": {
+              "value": "{semantic.draft.secondary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{semantic.draft.tertiary}",
+              "type": "color"
+            },
+            "textClick": {
+              "value": "{semantic.draft.quaternary}",
+              "type": "color"
+            },
+            "iconNormal": {
+              "value": "{semantic.draft.secondary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{semantic.draft.tertiary}",
+              "type": "color"
+            },
+            "iconClick": {
+              "value": "{semantic.draft.quaternary}",
+              "type": "color"
+            }
+          },
+          "constant": {
+            "textNormal": {
+              "value": "{components.text.constantPrimary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{components.text.constantPrimary}",
+              "type": "color"
+            },
+            "textClick": {
+              "value": "{components.text.constantPrimary}",
+              "type": "color"
+            },
+            "iconNormal": {
+              "value": "{components.icon.outlined.constantPrimary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{components.icon.outlined.constantPrimary}",
+              "type": "color"
+            },
+            "iconClick": {
+              "value": "{components.icon.outlined.constantPrimary}",
+              "type": "color"
+            }
+          }
         }
       },
       "divider": {
@@ -3785,7 +3995,7 @@
         },
         "brand": {
           "body": {
-            "value": "{components.background2.brand}",
+            "value": "{components.background1.brand}",
             "type": "color"
           },
           "border": {
@@ -3799,7 +4009,7 @@
         },
         "success": {
           "body": {
-            "value": "{components.background2.success}",
+            "value": "{components.background1.success}",
             "type": "color"
           },
           "border": {
@@ -3813,7 +4023,7 @@
         },
         "info": {
           "body": {
-            "value": "{components.background2.info}",
+            "value": "{components.background1.info}",
             "type": "color"
           },
           "border": {
@@ -3827,7 +4037,7 @@
         },
         "warning": {
           "body": {
-            "value": "{components.background2.warning}",
+            "value": "{components.background1.warning}",
             "type": "color"
           },
           "border": {
@@ -3841,7 +4051,7 @@
         },
         "critical": {
           "body": {
-            "value": "{components.background2.critical}",
+            "value": "{components.background1.critical}",
             "type": "color"
           },
           "border": {
@@ -3855,7 +4065,7 @@
         },
         "draft": {
           "body": {
-            "value": "{components.background2.draft}",
+            "value": "{components.background1.draft}",
             "type": "color"
           },
           "border": {
