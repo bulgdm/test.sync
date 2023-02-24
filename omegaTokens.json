@@ -2629,7 +2629,7 @@
         },
         "critical": {
           "body": {
-            "value": "{semantic.critical.transparent4}",
+            "value": "{semantic.critical.transparent8}",
             "type": "color"
           },
           "border": {
@@ -2643,7 +2643,7 @@
         },
         "draft": {
           "body": {
-            "value": "{semantic.draft.transparent4}",
+            "value": "{semantic.draft.transparent8}",
             "type": "color"
           },
           "border": {
