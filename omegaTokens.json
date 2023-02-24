@@ -2554,7 +2554,75 @@
           }
         }
       },
+      "background0": {
+        "primary": {
+          "value": "{palette.blackWhite.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{palette.titanGray.0}",
+          "type": "color"
+        },
+        "brand": {
+          "value": "{palette.omegaBlue.0}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{palette.nebulaHerbal.0}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{palette.mercuryViolet.0}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{palette.venusOrange.0}",
+          "type": "color"
+        },
+        "critical": {
+          "value": "{palette.martianRed.0}",
+          "type": "color"
+        },
+        "draft": {
+          "value": "{palette.titanGray.0}",
+          "type": "color"
+        }
+      },
       "background1": {
+        "primary": {
+          "value": "{palette.titanGray.0}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{palette.blackWhite.white}",
+          "type": "color"
+        },
+        "brand": {
+          "value": "{palette.omegaBlue.0}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{palette.nebulaHerbal.0}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{palette.mercuryViolet.0}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{palette.venusOrange.0}",
+          "type": "color"
+        },
+        "critical": {
+          "value": "{palette.martianRed.0}",
+          "type": "color"
+        },
+        "draft": {
+          "value": "{palette.titanGray.0}",
+          "type": "color"
+        }
+      },
+      "background2": {
         "primary": {
           "value": "{palette.blackWhite.white}",
           "type": "color"
@@ -3717,7 +3785,7 @@
         },
         "brand": {
           "body": {
-            "value": "{components.background1.brand}",
+            "value": "{components.background2.brand}",
             "type": "color"
           },
           "border": {
@@ -3731,7 +3799,7 @@
         },
         "success": {
           "body": {
-            "value": "{components.background1.success}",
+            "value": "{components.background2.success}",
             "type": "color"
           },
           "border": {
@@ -3745,7 +3813,7 @@
         },
         "info": {
           "body": {
-            "value": "{components.background1.info}",
+            "value": "{components.background2.info}",
             "type": "color"
           },
           "border": {
@@ -3759,7 +3827,7 @@
         },
         "warning": {
           "body": {
-            "value": "{components.background1.warning}",
+            "value": "{components.background2.warning}",
             "type": "color"
           },
           "border": {
@@ -3773,7 +3841,7 @@
         },
         "critical": {
           "body": {
-            "value": "{components.background1.critical}",
+            "value": "{components.background2.critical}",
             "type": "color"
           },
           "border": {
@@ -3787,7 +3855,7 @@
         },
         "draft": {
           "body": {
-            "value": "{components.background1.draft}",
+            "value": "{components.background2.draft}",
             "type": "color"
           },
           "border": {
