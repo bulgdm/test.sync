@@ -3885,6 +3885,76 @@
             "type": "color"
           }
         }
+      },
+      "suggest": {
+        "off": {
+          "text": {
+            "value": "{components.text.primary}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{components.icon.filled.primary}",
+            "type": "color"
+          },
+          "bodyNormal": {
+            "value": "{components.elevation.zero.body}",
+            "type": "color"
+          },
+          "bodyHover": {
+            "value": "{semantic.primary.transparent4}",
+            "type": "color"
+          },
+          "bodyClick": {
+            "value": "{semantic.primary.transparent8}",
+            "type": "color"
+          },
+          "borderNormal": {
+            "value": "{components.elevation.one.borderNormal}",
+            "type": "color"
+          },
+          "borderHover": {
+            "value": "{components.elevation.one.borderHover}",
+            "type": "color"
+          },
+          "borderClick": {
+            "value": "{components.elevation.one.borderClick}",
+            "type": "color"
+          }
+        },
+        "on": {
+          "text": {
+            "value": "{components.text.brand}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{components.icon.filled.brand}",
+            "type": "color"
+          },
+          "bodyNormal": {
+            "value": "{semantic.brand.transparent8}",
+            "type": "color"
+          },
+          "bodyHover": {
+            "value": "{semantic.brand.transparent12}",
+            "type": "color"
+          },
+          "bodyClick": {
+            "value": "{semantic.brand.transparent16}",
+            "type": "color"
+          },
+          "borderNormal": {
+            "value": "{semantic.brand.secondary}",
+            "type": "color"
+          },
+          "borderHover": {
+            "value": "{semantic.brand.tertiary}",
+            "type": "color"
+          },
+          "borderClick": {
+            "value": "{semantic.brand.quaternary}",
+            "type": "color"
+          }
+        }
       }
     }
   },
