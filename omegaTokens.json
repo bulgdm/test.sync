@@ -3305,7 +3305,7 @@
             "type": "color"
           },
           "bodyDisabled": {
-            "value": "{semantic.primary.transparent8}",
+            "value": "{semantic.primary.transparent16}",
             "type": "color"
           },
           "bodyWarning": {
