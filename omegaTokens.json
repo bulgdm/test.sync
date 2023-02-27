@@ -4307,6 +4307,156 @@
             "type": "color"
           }
         }
+      },
+      "chips": {
+        "filled": {
+          "off": {
+            "text": {
+              "value": "{components.text.primary}",
+              "type": "color"
+            },
+            "textDisabled": {
+              "value": "{components.text.secondary}",
+              "type": "color"
+            },
+            "iconPrimary": {
+              "value": "{components.icon.filled.primary}",
+              "type": "color"
+            },
+            "iconSecondary": {
+              "value": "{components.icon.outlined.secondary}",
+              "type": "color"
+            },
+            "bodyNormal": {
+              "value": "{semantic.primary.transparent8}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.primary.transparent12}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.primary.transparent16}",
+              "type": "color"
+            },
+            "bodyDisabled": {
+              "value": "{semantic.primary.transparent4}",
+              "type": "color"
+            }
+          },
+          "on": {
+            "text": {
+              "value": "{components.text.constantPrimary}",
+              "type": "color"
+            },
+            "textDisabled": {
+              "value": "{components.text.constantSecondary}",
+              "type": "color"
+            },
+            "iconPrimary": {
+              "value": "{components.icon.filled.constantPrimary}",
+              "type": "color"
+            },
+            "iconSecondary": {
+              "value": "{components.icon.outlined.constantSecondary}",
+              "type": "color"
+            },
+            "bodyNormal": {
+              "value": "{semantic.brand.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.brand.secondary}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.brand.tertiary}",
+              "type": "color"
+            },
+            "bodyDisabled": {
+              "value": "{semantic.brand.primary}",
+              "type": "color"
+            }
+          }
+        },
+        "outlined": {
+          "off": {
+            "text": {
+              "value": "{components.text.primary}",
+              "type": "color"
+            },
+            "textDisabled": {
+              "value": "{components.text.secondary}",
+              "type": "color"
+            },
+            "iconPrimary": {
+              "value": "{components.icon.filled.primary}",
+              "type": "color"
+            },
+            "iconSecondary": {
+              "value": "{components.icon.outlined.secondary}",
+              "type": "color"
+            },
+            "bodyNormal": {
+              "value": "{semantic.transparent.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.primary.transparent8}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.primary.transparent12}",
+              "type": "color"
+            },
+            "bodyDisabled": {
+              "value": "{semantic.transparent.primary}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{components.elevation.one.borderNormal}",
+              "type": "color"
+            }
+          },
+          "on": {
+            "text": {
+              "value": "{components.text.brand}",
+              "type": "color"
+            },
+            "textDisabled": {
+              "value": "{semantic.brand.transparent40}",
+              "type": "color"
+            },
+            "iconPrimary": {
+              "value": "{components.icon.filled.brand}",
+              "type": "color"
+            },
+            "iconSecondary": {
+              "value": "{components.icon.outlined.brand}",
+              "type": "color"
+            },
+            "bodyNormal": {
+              "value": "{semantic.transparent.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.brand.transparent8}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.brand.transparent12}",
+              "type": "color"
+            },
+            "bodyDisabled": {
+              "value": "{semantic.transparent.primary}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.brand.secondary}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   },
