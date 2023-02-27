@@ -4414,7 +4414,7 @@
               "type": "color"
             },
             "border": {
-              "value": "{components.elevation.one.borderNormal}",
+              "value": "{components.elevation.zero.borderNormal}",
               "type": "color"
             }
           },
