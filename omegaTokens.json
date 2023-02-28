@@ -4457,6 +4457,24 @@
             }
           }
         }
+      },
+      "hint": {
+        "body": {
+          "value": "{semantic.primary.primary}",
+          "type": "color"
+        },
+        "title": {
+          "value": "{components.text.constantPrimary}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{components.text.constantSecondary}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{components.icon.outlined.constantSecondary}",
+          "type": "color"
+        }
       }
     }
   },
