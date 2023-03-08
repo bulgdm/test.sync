@@ -4475,6 +4475,16 @@
           "value": "{components.icon.outlined.constantSecondary}",
           "type": "color"
         }
+      },
+      "tooltip": {
+        "body": {
+          "value": "{semantic.primary.primary}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{components.text.constantPrimary}",
+          "type": "color"
+        }
       }
     }
   },
