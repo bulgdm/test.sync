@@ -1671,7 +1671,7 @@
         }
       }
     },
-    "Spaces": {
+    "spaces": {
       "gravitySystem": {
         "Zero": {
           "value": "0",
@@ -2115,7 +2115,7 @@
         }
       }
     },
-    "BorderRadius": {
+    "borderRadiuses": {
       "gravitySystem": {
         "bodyL": {
           "Tiny": {
@@ -2269,7 +2269,7 @@
         }
       }
     },
-    "Sizes": {
+    "sizes": {
       "Static": {
         "1x": {
           "value": "{core.xBase}",
