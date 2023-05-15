@@ -3407,7 +3407,7 @@
     }
   },
   "component tokens light": {
-    "components": {
+    "componentsLight": {
       "informer": {
         "title": {
           "value": "{semanticLight.text.primary}",
@@ -6397,7 +6397,7 @@
     }
   },
   "component tokens dark": {
-    "components": {
+    "componentsDark": {
       "informer": {
         "title": {
           "value": "{semanticDark.text.primary}",
@@ -7387,7 +7387,7 @@
             }
           }
         },
-        "link": {
+        "text": {
           "primary": {
             "textNormal": {
               "value": "{semanticDark.text.primary}",
