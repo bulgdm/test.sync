@@ -8011,15 +8011,15 @@
             "type": "color"
           },
           "borderNormal": {
-            "value": "{semanticDark.brand.secondary}",
+            "value": "{semanticDark.brand.primary}",
             "type": "color"
           },
           "borderHover": {
-            "value": "{semanticDark.brand.tertiary}",
+            "value": "{semanticDark.brand.secondary}",
             "type": "color"
           },
           "borderClick": {
-            "value": "{semanticDark.brand.quaternary}",
+            "value": "{semanticDark.brand.tertiary}",
             "type": "color"
           },
           "borderDisabled": {
@@ -8156,7 +8156,7 @@
               "type": "color"
             },
             "border": {
-              "value": "{semantic.elevation0.primary.borderNormal}",
+              "value": "{semanticDark.elevation0.outlined.primary.borderNormal}",
               "type": "color"
             }
           },
@@ -8202,7 +8202,7 @@
       },
       "hint": {
         "body": {
-          "value": "{semanticDark.primary.primary}",
+          "value": "{semanticDark.elevation1.filled.primary.bodyNormal}",
           "type": "color"
         },
         "title": {
@@ -8220,7 +8220,7 @@
       },
       "tooltip": {
         "body": {
-          "value": "{semanticDark.primary.primary}",
+          "value": "{semanticDark.elevation1.filled.primary.bodyNormal}",
           "type": "color"
         },
         "text": {
