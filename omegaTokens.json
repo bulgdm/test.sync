@@ -5622,11 +5622,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{semanticDark.primary.transparent60}",
+          "value": "{semanticDark.primary.transparent70}",
           "type": "color"
         },
         "brand": {
-          "value": "{semanticDark.brand.secondary}",
+          "value": "{semanticDark.brand.primary}",
           "type": "color"
         },
         "success": {
@@ -5661,7 +5661,7 @@
       "icon": {
         "filled": {
           "placeholder": {
-            "value": "{semanticDark.brand.transparent40}",
+            "value": "{semanticDark.constant.transparent40}",
             "type": "color"
           },
           "primary": {
@@ -5669,7 +5669,7 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{semanticDark.primary.transparent60}",
+            "value": "{semanticDark.primary.transparent70}",
             "type": "color"
           },
           "brand": {
@@ -5707,7 +5707,7 @@
         },
         "outlined": {
           "placeholder": {
-            "value": "{semanticDark.brand.transparent40}",
+            "value": "{semanticDark.constant.transparent40}",
             "type": "color"
           },
           "primary": {
@@ -5719,27 +5719,27 @@
             "type": "color"
           },
           "brand": {
-            "value": "{semanticDark.brand.secondary}",
+            "value": "{semanticDark.brand.primary}",
             "type": "color"
           },
           "success": {
-            "value": "{semanticDark.success.secondary}",
+            "value": "{semanticDark.success.primary}",
             "type": "color"
           },
           "info": {
-            "value": "{semanticDark.info.secondary}",
+            "value": "{semanticDark.info.primary}",
             "type": "color"
           },
           "warning": {
-            "value": "{semanticDark.warning.secondary}",
+            "value": "{semanticDark.warning.primary}",
             "type": "color"
           },
           "critical": {
-            "value": "{semanticDark.critical.secondary}",
+            "value": "{semanticDark.critical.primary}",
             "type": "color"
           },
           "draft": {
-            "value": "{semanticDark.draft.secondary}",
+            "value": "{semanticDark.draft.primary}",
             "type": "color"
           },
           "constantPrimary": {
@@ -5841,7 +5841,7 @@
         },
         "outlined": {
           "body": {
-            "value": "{semanticDark.constant.primary}",
+            "value": "{semanticDark.transparent.primary}",
             "type": "color"
           },
           "primary": {
@@ -6082,7 +6082,7 @@
         "filled": {
           "primary": {
             "bodyNormal": {
-              "value": "{semanticDark.primary.primary}",
+              "value": "hsla({core.palette.spaceGraphite.700}, 1)",
               "type": "color"
             }
           },
@@ -6173,7 +6173,7 @@
         },
         "outlined": {
           "body": {
-            "value": "{semanticDark.constant.primary}",
+            "value": "{semanticDark.transparent.primary}",
             "type": "color"
           },
           "primary": {
@@ -6263,134 +6263,134 @@
         },
         "tonned": {
           "primary": {
-            "value": "hsla({core.palette.titanGray.0}, 1)",
+            "value": "hsla({core.palette.titanGray.1000}, 1)",
             "type": "color"
           },
           "brand": {
-            "value": "hsla({core.palette.omegaBlue.0}, 1)",
+            "value": "hsla({core.palette.omegaBlue.1000}, 1)",
             "type": "color"
           },
           "success": {
-            "value": "hsla({core.palette.nebulaHerbal.0}, 1)",
+            "value": "hsla({core.palette.nebulaHerbal.1000}, 1)",
             "type": "color"
           },
           "info": {
-            "value": "hsla({core.palette.mercuryViolet.0}, 1)",
+            "value": "hsla({core.palette.mercuryViolet.1000}, 1)",
             "type": "color"
           },
           "warning": {
-            "value": "hsla({core.palette.venusOrange.0}, 1)",
+            "value": "hsla({core.palette.venusOrange.1000}, 1)",
             "type": "color"
           },
           "critical": {
-            "value": "hsla({core.palette.martianRed.0}, 1)",
+            "value": "hsla({core.palette.martianRed.1000}, 1)",
             "type": "color"
           },
           "draft": {
-            "value": "hsla({core.palette.titanGray.0}, 1)",
+            "value": "hsla({core.palette.titanGray.1000}, 1)",
             "type": "color"
           }
         }
       },
       "background0": {
         "primary": {
-          "value": "hsla({core.palette.blackWhite.white}, 1)",
+          "value": "hsla({core.palette.spaceGraphite.900}, 1)",
           "type": "color"
         },
         "secondary": {
-          "value": "hsla({core.palette.titanGray.0}, 1)",
+          "value": "hsla({core.palette.spaceGraphite.800}, 1)",
           "type": "color"
         },
         "brand": {
-          "value": "hsla({core.palette.omegaBlue.0}, 1)",
+          "value": "hsla({core.palette.omegaBlue.1000}, 1)",
           "type": "color"
         },
         "success": {
-          "value": "hsla({core.palette.nebulaHerbal.0}, 1)",
+          "value": "hsla({core.palette.nebulaHerbal.1000}, 1)",
           "type": "color"
         },
         "info": {
-          "value": "hsla({core.palette.mercuryViolet.0}, 1)",
+          "value": "hsla({core.palette.mercuryViolet.1000}, 1)",
           "type": "color"
         },
         "warning": {
-          "value": "hsla({core.palette.venusOrange.0}, 1)",
+          "value": "hsla({core.palette.venusOrange.1000}, 1)",
           "type": "color"
         },
         "critical": {
-          "value": "hsla({core.palette.martianRed.0}, 1)",
+          "value": "hsla({core.palette.martianRed.1000}, 1)",
           "type": "color"
         },
         "draft": {
-          "value": "hsla({core.palette.titanGray.0}, 1)",
+          "value": "hsla({core.palette.titanGray.1000}, 1)",
           "type": "color"
         }
       },
       "background1": {
         "primary": {
-          "value": "hsla({core.palette.blackWhite.white}, 1)",
+          "value": "hsla({core.palette.spaceGraphite.800}, 1)",
           "type": "color"
         },
         "secondary": {
-          "value": "hsla({core.palette.titanGray.0}, 1)",
+          "value": "hsla({core.palette.spaceGraphite.700}, 1)",
           "type": "color"
         },
         "brand": {
-          "value": "hsla({core.palette.omegaBlue.0}, 1)",
+          "value": "hsla({core.palette.omegaBlue.900}, 1)",
           "type": "color"
         },
         "success": {
-          "value": "hsla({core.palette.nebulaHerbal.0}, 1)",
+          "value": "hsla({core.palette.nebulaHerbal.900}, 1)",
           "type": "color"
         },
         "info": {
-          "value": "hsla({core.palette.mercuryViolet.0}, 1)",
+          "value": "hsla({core.palette.mercuryViolet.900}, 1)",
           "type": "color"
         },
         "warning": {
-          "value": "hsla({core.palette.venusOrange.0}, 1)",
+          "value": "hsla({core.palette.venusOrange.900}, 1)",
           "type": "color"
         },
         "critical": {
-          "value": "hsla({core.palette.martianRed.0}, 1)",
+          "value": "hsla({core.palette.martianRed.900}, 1)",
           "type": "color"
         },
         "draft": {
-          "value": "hsla({core.palette.titanGray.0}, 1)",
+          "value": "hsla({core.palette.titanGray.900}, 1)",
           "type": "color"
         }
       },
       "background2": {
         "primary": {
-          "value": "hsla({core.palette.blackWhite.white}, 1)",
+          "value": "hsla({core.palette.spaceGraphite.600}, 1)",
           "type": "color"
         },
         "secondary": {
-          "value": "hsla({core.palette.titanGray.0}, 1)",
+          "value": "hsla({core.palette.spaceGraphite.500}, 1)",
           "type": "color"
         },
         "brand": {
-          "value": "hsla({core.palette.omegaBlue.0}, 1)",
+          "value": "hsla({core.palette.omegaBlue.800}, 1)",
           "type": "color"
         },
         "success": {
-          "value": "hsla({core.palette.nebulaHerbal.0}, 1)",
+          "value": "hsla({core.palette.nebulaHerbal.800}, 1)",
           "type": "color"
         },
         "info": {
-          "value": "hsla({core.palette.mercuryViolet.0}, 1)",
+          "value": "hsla({core.palette.mercuryViolet.800}, 1)",
           "type": "color"
         },
         "warning": {
-          "value": "hsla({core.palette.venusOrange.0}, 1)",
+          "value": "hsla({core.palette.venusOrange.800}, 1)",
           "type": "color"
         },
         "critical": {
-          "value": "hsla({core.palette.martianRed.0}, 1)",
+          "value": "hsla({core.palette.martianRed.800}, 1)",
           "type": "color"
         },
         "draft": {
-          "value": "hsla({core.palette.titanGray.0}, 1)",
+          "value": "hsla({core.palette.titanGray.800}, 1)",
           "type": "color"
         }
       }
@@ -6533,11 +6533,11 @@
             "type": "color"
           },
           "textHover": {
-            "value": "{semanticDark.text.primary}",
+            "value": "{semanticDark.text.secondary}",
             "type": "color"
           },
           "iconHover": {
-            "value": "{semanticDark.icon.outlined.primary}",
+            "value": "{semanticDark.icon.outlined.secondary}",
             "type": "color"
           },
           "textClick": {
@@ -6551,157 +6551,157 @@
         },
         "brand": {
           "textNormal": {
-            "value": "{semanticDark.brand.secondary}",
+            "value": "{semanticDark.brand.primary}",
             "type": "color"
           },
           "textHover": {
-            "value": "{semanticDark.brand.tertiary}",
-            "type": "color"
-          },
-          "textClick": {
-            "value": "{semanticDark.brand.quaternary}",
-            "type": "color"
-          },
-          "iconNormal": {
             "value": "{semanticDark.brand.secondary}",
             "type": "color"
           },
-          "iconHover": {
+          "textClick": {
             "value": "{semanticDark.brand.tertiary}",
             "type": "color"
           },
+          "iconNormal": {
+            "value": "{semanticDark.brand.primary}",
+            "type": "color"
+          },
+          "iconHover": {
+            "value": "{semanticDark.brand.secondary}",
+            "type": "color"
+          },
           "iconClick": {
-            "value": "{semanticDark.brand.quaternary}",
+            "value": "{semanticDark.brand.tertiary}",
             "type": "color"
           }
         },
         "success": {
           "textNormal": {
-            "value": "{semanticDark.success.secondary}",
+            "value": "{semanticDark.success.primary}",
             "type": "color"
           },
           "textHover": {
-            "value": "{semanticDark.success.tertiary}",
-            "type": "color"
-          },
-          "textClick": {
-            "value": "{semanticDark.success.quaternary}",
-            "type": "color"
-          },
-          "iconNormal": {
             "value": "{semanticDark.success.secondary}",
             "type": "color"
           },
-          "iconHover": {
+          "textClick": {
             "value": "{semanticDark.success.tertiary}",
             "type": "color"
           },
+          "iconNormal": {
+            "value": "{semanticDark.success.primary}",
+            "type": "color"
+          },
+          "iconHover": {
+            "value": "{semanticDark.success.secondary}",
+            "type": "color"
+          },
           "iconClick": {
-            "value": "{semanticDark.success.quaternary}",
+            "value": "{semanticDark.success.tertiary}",
             "type": "color"
           }
         },
         "info": {
           "textNormal": {
-            "value": "{semanticDark.info.secondary}",
+            "value": "{semanticDark.info.primary}",
             "type": "color"
           },
           "textHover": {
-            "value": "{semanticDark.info.tertiary}",
-            "type": "color"
-          },
-          "textClick": {
-            "value": "{semanticDark.info.quaternary}",
-            "type": "color"
-          },
-          "iconNormal": {
             "value": "{semanticDark.info.secondary}",
             "type": "color"
           },
-          "iconHover": {
+          "textClick": {
             "value": "{semanticDark.info.tertiary}",
             "type": "color"
           },
+          "iconNormal": {
+            "value": "{semanticDark.info.primary}",
+            "type": "color"
+          },
+          "iconHover": {
+            "value": "{semanticDark.info.secondary}",
+            "type": "color"
+          },
           "iconClick": {
-            "value": "{semanticDark.info.quaternary}",
+            "value": "{semanticDark.info.tertiary}",
             "type": "color"
           }
         },
         "warning": {
           "textNormal": {
-            "value": "{semanticDark.warning.secondary}",
+            "value": "{semanticDark.warning.primary}",
             "type": "color"
           },
           "textHover": {
-            "value": "{semanticDark.warning.tertiary}",
-            "type": "color"
-          },
-          "textClick": {
-            "value": "{semanticDark.warning.quaternary}",
-            "type": "color"
-          },
-          "iconNormal": {
             "value": "{semanticDark.warning.secondary}",
             "type": "color"
           },
-          "iconHover": {
+          "textClick": {
             "value": "{semanticDark.warning.tertiary}",
             "type": "color"
           },
+          "iconNormal": {
+            "value": "{semanticDark.warning.primary}",
+            "type": "color"
+          },
+          "iconHover": {
+            "value": "{semanticDark.warning.secondary}",
+            "type": "color"
+          },
           "iconClick": {
-            "value": "{semanticDark.warning.quaternary}",
+            "value": "{semanticDark.warning.tertiary}",
             "type": "color"
           }
         },
         "critical": {
           "textNormal": {
-            "value": "{semanticDark.critical.secondary}",
+            "value": "{semanticDark.critical.primary}",
             "type": "color"
           },
           "textHover": {
-            "value": "{semanticDark.critical.tertiary}",
-            "type": "color"
-          },
-          "textClick": {
-            "value": "{semanticDark.critical.quaternary}",
-            "type": "color"
-          },
-          "iconNormal": {
             "value": "{semanticDark.critical.secondary}",
             "type": "color"
           },
-          "iconHover": {
+          "textClick": {
             "value": "{semanticDark.critical.tertiary}",
             "type": "color"
           },
+          "iconNormal": {
+            "value": "{semanticDark.critical.primary}",
+            "type": "color"
+          },
+          "iconHover": {
+            "value": "{semanticDark.critical.secondary}",
+            "type": "color"
+          },
           "iconClick": {
-            "value": "{semanticDark.critical.quaternary}",
+            "value": "{semanticDark.critical.tertiary}",
             "type": "color"
           }
         },
         "draft": {
           "textNormal": {
-            "value": "{semanticDark.draft.secondary}",
+            "value": "{semanticDark.draft.primary}",
             "type": "color"
           },
           "textHover": {
-            "value": "{semanticDark.draft.tertiary}",
-            "type": "color"
-          },
-          "textClick": {
-            "value": "{semanticDark.draft.quaternary}",
-            "type": "color"
-          },
-          "iconNormal": {
             "value": "{semanticDark.draft.secondary}",
             "type": "color"
           },
-          "iconHover": {
+          "textClick": {
             "value": "{semanticDark.draft.tertiary}",
             "type": "color"
           },
+          "iconNormal": {
+            "value": "{semanticDark.draft.primary}",
+            "type": "color"
+          },
+          "iconHover": {
+            "value": "{semanticDark.draft.secondary}",
+            "type": "color"
+          },
           "iconClick": {
-            "value": "{semanticDark.draft.quaternary}",
+            "value": "{semanticDark.draft.tertiary}",
             "type": "color"
           }
         },
@@ -6968,15 +6968,15 @@
           },
           "brand": {
             "borderNormal": {
-              "value": "{semanticDark.brand.secondary}",
+              "value": "{semanticDark.brand.primary}",
               "type": "color"
             },
             "borderHover": {
-              "value": "{semanticDark.brand.tertiary}",
+              "value": "{semanticDark.brand.secondary}",
               "type": "color"
             },
             "borderClick": {
-              "value": "{semanticDark.brand.quaternary}",
+              "value": "{semanticDark.brand.tertiary}",
               "type": "color"
             },
             "text": {
@@ -6990,15 +6990,15 @@
           },
           "success": {
             "borderNormal": {
-              "value": "{semanticDark.success.secondary}",
+              "value": "{semanticDark.success.primary}",
               "type": "color"
             },
             "borderHover": {
-              "value": "{semanticDark.success.tertiary}",
+              "value": "{semanticDark.success.secondary}",
               "type": "color"
             },
             "borderClick": {
-              "value": "{semanticDark.success.quaternary}",
+              "value": "{semanticDark.success.tertiary}",
               "type": "color"
             },
             "text": {
@@ -7012,15 +7012,15 @@
           },
           "info": {
             "borderNormal": {
-              "value": "{semanticDark.info.secondary}",
+              "value": "{semanticDark.info.primary}",
               "type": "color"
             },
             "borderHover": {
-              "value": "{semanticDark.info.tertiary}",
+              "value": "{semanticDark.info.secondary}",
               "type": "color"
             },
             "borderClick": {
-              "value": "{semanticDark.info.quaternary}",
+              "value": "{semanticDark.info.tertiary}",
               "type": "color"
             },
             "text": {
@@ -7034,15 +7034,15 @@
           },
           "warning": {
             "borderNormal": {
-              "value": "{semanticDark.warning.secondary}",
+              "value": "{semanticDark.warning.primary}",
               "type": "color"
             },
             "borderHover": {
-              "value": "{semanticDark.warning.tertiary}",
+              "value": "{semanticDark.warning.secondary}",
               "type": "color"
             },
             "borderClick": {
-              "value": "{semanticDark.warning.quaternary}",
+              "value": "{semanticDark.warning.tertiary}",
               "type": "color"
             },
             "text": {
@@ -7056,15 +7056,15 @@
           },
           "critical": {
             "borderNormal": {
-              "value": "{semanticDark.critical.secondary}",
+              "value": "{semanticDark.critical.primary}",
               "type": "color"
             },
             "borderHover": {
-              "value": "{semanticDark.critical.tertiary}",
+              "value": "{semanticDark.critical.secondary}",
               "type": "color"
             },
             "borderClick": {
-              "value": "{semanticDark.critical.quaternary}",
+              "value": "{semanticDark.critical.tertiary}",
               "type": "color"
             },
             "text": {
@@ -7078,15 +7078,15 @@
           },
           "draft": {
             "borderNormal": {
-              "value": "{semanticDark.draft.secondary}",
+              "value": "{semanticDark.draft.primary}",
               "type": "color"
             },
             "borderHover": {
-              "value": "{semanticDark.draft.tertiary}",
+              "value": "{semanticDark.draft.secondary}",
               "type": "color"
             },
             "borderClick": {
-              "value": "{semanticDark.draft.quaternary}",
+              "value": "{semanticDark.draft.tertiary}",
               "type": "color"
             },
             "text": {
