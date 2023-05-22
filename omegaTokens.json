@@ -29,7 +29,7 @@
         },
         "300": {
           "fontSize": {
-            "value": "{core.xBase}*5-2",
+            "value": "{core.xBase}*5-1",
             "type": "core"
           },
           "lineHeight": {
