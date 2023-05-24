@@ -2267,11 +2267,11 @@
             "type": "color"
           },
           "transparent12": {
-            "value": "hsla({semantic.light.primary.primary}, 0.12)",
+            "value": "hsla({core.palette.titanGray.900}, 0.12)",
             "type": "color"
           },
           "transparent16": {
-            "value": "hsla({semantic.light.primary.primary}, 0.16)",
+            "value": "hsla({core.palette.titanGray.900},  0.16)",
             "type": "color"
           },
           "transparent24": {
