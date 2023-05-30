@@ -2764,6 +2764,22 @@
           }
         },
         "elevation0": {
+          "body": {
+            "value": "{semantic.light.constant.primary}",
+            "type": "color"
+          },
+          "borderNormal": {
+            "value": "{semantic.light.primary.transparent16}",
+            "type": "color"
+          },
+          "borderHover": {
+            "value": "{semantic.light.primary.transparent24}",
+            "type": "color"
+          },
+          "borderClick": {
+            "value": "{semantic.light.primary.transparent32}",
+            "type": "color"
+          },
           "filled": {
             "brand": {
               "bodyNormal": {
@@ -2851,24 +2867,6 @@
             }
           },
           "outlined": {
-            "body": {
-              "value": "{semantic.light.constant.primary}",
-              "type": "color"
-            },
-            "primary": {
-              "borderNormal": {
-                "value": "{semantic.light.primary.transparent16}",
-                "type": "color"
-              },
-              "borderHover": {
-                "value": "{semantic.light.primary.transparent24}",
-                "type": "color"
-              },
-              "borderClick": {
-                "value": "{semantic.light.primary.transparent32}",
-                "type": "color"
-              }
-            },
             "brand": {
               "borderNormal": {
                 "value": "{semantic.light.brand.transparent16}",
@@ -3090,6 +3088,22 @@
           }
         },
         "elevation1": {
+          "body": {
+            "value": "{semantic.light.constant.primary}",
+            "type": "color"
+          },
+          "borderNormal": {
+            "value": "{semantic.light.primary.transparent8}",
+            "type": "color"
+          },
+          "borderHover": {
+            "value": "{semantic.light.primary.transparent12}",
+            "type": "color"
+          },
+          "borderClick": {
+            "value": "{semantic.light.primary.transparent16}",
+            "type": "color"
+          },
           "filled": {
             "primary": {
               "bodyNormal": {
@@ -3183,24 +3197,6 @@
             }
           },
           "outlined": {
-            "body": {
-              "value": "{semantic.light.constant.primary}",
-              "type": "color"
-            },
-            "primary": {
-              "borderNormal": {
-                "value": "{semantic.light.primary.transparent8}",
-                "type": "color"
-              },
-              "borderHover": {
-                "value": "{semantic.light.primary.transparent12}",
-                "type": "color"
-              },
-              "borderClick": {
-                "value": "{semantic.light.primary.transparent16}",
-                "type": "color"
-              }
-            },
             "brand": {
               "borderNormal": {
                 "value": "{semantic.light.brand.transparent8}",
@@ -4926,15 +4922,15 @@
               "type": "color"
             },
             "borderNormal": {
-              "value": "{semantic.light.elevation0.outlined.primary.borderNormal}",
+              "value": "{semantic.light.elevation0.borderNormal}",
               "type": "color"
             },
             "borderHover": {
-              "value": "{semantic.light.elevation0.outlined.primary.borderHover}",
+              "value": "{semantic.light.elevation0.borderHover}",
               "type": "color"
             },
             "borderClick": {
-              "value": "{semantic.light.elevation0.outlined.primary.borderClick}",
+              "value": "{semantic.light.elevation0.borderClick}",
               "type": "color"
             }
           },
@@ -5169,7 +5165,7 @@
                 "type": "color"
               },
               "border": {
-                "value": "{semantic.light.elevation0.outlined.primary.borderNormal}",
+                "value": "{semantic.light.elevation0.borderNormal}",
                 "type": "color"
               }
             },
@@ -5758,6 +5754,22 @@
           }
         },
         "elevation0": {
+          "body": {
+            "value": "{semantic.dark.transparent.primary}",
+            "type": "color"
+          },
+          "borderNormal": {
+            "value": "{semantic.dark.primary.transparent16}",
+            "type": "color"
+          },
+          "borderHover": {
+            "value": "{semantic.dark.primary.transparent24}",
+            "type": "color"
+          },
+          "borderClick": {
+            "value": "{semantic.dark.primary.transparent32}",
+            "type": "color"
+          },
           "filled": {
             "brand": {
               "bodyNormal": {
@@ -5845,24 +5857,6 @@
             }
           },
           "outlined": {
-            "body": {
-              "value": "{semantic.dark.transparent.primary}",
-              "type": "color"
-            },
-            "primary": {
-              "borderNormal": {
-                "value": "{semantic.dark.primary.transparent16}",
-                "type": "color"
-              },
-              "borderHover": {
-                "value": "{semantic.dark.primary.transparent24}",
-                "type": "color"
-              },
-              "borderClick": {
-                "value": "{semantic.dark.primary.transparent32}",
-                "type": "color"
-              }
-            },
             "brand": {
               "borderNormal": {
                 "value": "{semantic.dark.brand.transparent16}",
@@ -6084,6 +6078,22 @@
           }
         },
         "elevation1": {
+          "body": {
+            "value": "{semantic.dark.transparent.primary}",
+            "type": "color"
+          },
+          "borderNormal": {
+            "value": "{semantic.dark.primary.transparent8}",
+            "type": "color"
+          },
+          "borderHover": {
+            "value": "{semantic.dark.primary.transparent12}",
+            "type": "color"
+          },
+          "borderClick": {
+            "value": "{semantic.dark.primary.transparent16}",
+            "type": "color"
+          },
           "filled": {
             "primary": {
               "bodyNormal": {
@@ -6177,24 +6187,6 @@
             }
           },
           "outlined": {
-            "body": {
-              "value": "{semantic.dark.transparent.primary}",
-              "type": "color"
-            },
-            "primary": {
-              "borderNormal": {
-                "value": "{semantic.dark.primary.transparent8}",
-                "type": "color"
-              },
-              "borderHover": {
-                "value": "{semantic.dark.primary.transparent12}",
-                "type": "color"
-              },
-              "borderClick": {
-                "value": "{semantic.dark.primary.transparent16}",
-                "type": "color"
-              }
-            },
             "brand": {
               "borderNormal": {
                 "value": "{semantic.dark.brand.transparent8}",
@@ -7908,7 +7900,7 @@
               "type": "color"
             },
             "bodyNormal": {
-              "value": "{semantic.dark.elevation1.outlined.body}",
+              "value": "{semantic.dark.elevation1.body}",
               "type": "color"
             },
             "bodyHover": {
@@ -7920,15 +7912,15 @@
               "type": "color"
             },
             "borderNormal": {
-              "value": "{semantic.dark.elevation1.outlined.primary.borderNormal}",
+              "value": "{semantic.dark.elevation1.borderNormal}",
               "type": "color"
             },
             "borderHover": {
-              "value": "{semantic.dark.elevation1.outlined.primary.borderHover}",
+              "value": "{semantic.dark.elevation1.borderHover}",
               "type": "color"
             },
             "borderClick": {
-              "value": "{semantic.dark.elevation1.outlined.primary.borderClick}",
+              "value": "{semantic.dark.elevation1.borderClick}",
               "type": "color"
             }
           },
@@ -8163,7 +8155,7 @@
                 "type": "color"
               },
               "border": {
-                "value": "{semantic.dark.elevation0.outlined.primary.borderNormal}",
+                "value": "{semantic.dark.elevation0.borderNormal}",
                 "type": "color"
               }
             },
