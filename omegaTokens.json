@@ -9,7 +9,7 @@
       "typography": {
         "100": {
           "fontSize": {
-            "value": "{core.xBase}*3+1",
+            "value": "{core.xBase}*3+2",
             "type": "core"
           },
           "lineHeight": {
@@ -19,7 +19,7 @@
         },
         "200": {
           "fontSize": {
-            "value": "{core.xBase}*4-1",
+            "value": "{core.xBase}*4",
             "type": "core"
           },
           "lineHeight": {
